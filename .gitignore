@@ -1,0 +1,15 @@
+# .gitignore
+
+# Ambiente virtual
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurações locais
+*.sqlite3
+.DS_Store
